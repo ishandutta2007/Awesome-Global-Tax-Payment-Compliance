@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58eVe"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Global-Tax-Payment-Compliance/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Global-Tax-Payment-Compliance?style=social&color=white" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Global-Tax-Payment-Compliance/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Global-Tax-Payment-Compliance?style=social&color=white" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Global-Tax-Payment-Compliance/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Global-Tax-Payment-Compliance?style=social&color=white" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Global-Tax-Payment-Compliance/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -53,9 +53,9 @@ The global tax compliance and management software market is estimated at approxi
 
 ## 🔓 Open-Source GitHub Projects
 
-Curated list of self-hosted engines, primitives, rate datasets, and validation tools sorted strictly by GitHub stars:
+Curated list of self-hosted engines, primitives, rate datasets, and validation tools sorted strictly by GitHub_Stars:
 
-| 📦 Project | ⭐ Stars | 🛠️ Focus Area | 📝 Description |
+| 📦 Project | ⭐ GitHub_Stars | 🛠️ Focus Area | 📝 Description |
 |---|---|---|---|
 | **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** | [![Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers) | Invoicing & Multi-Tax Engine | Complete self-hosted financial platform with multi-currency, multi-jurisdiction tax rate assignments, and custom tax rules built on Laravel. |
 | **[Crater](https://github.com/crater-invoice/crater)** | [![Stars](https://img.shields.io/github/stars/crater-invoice/crater?style=social&color=white)](https://github.com/crater-invoice/crater/stargazers) | Self-Hosted Invoicing & Tax | Open-source invoicing solution with compound and multi-rate tax support designed for freelance and SME financial management. |
@@ -94,7 +94,7 @@ If you found this curated list helpful for building your billing system or compl
 
 1. 🍴 Fork the repository.
 2. 📝 Add or edit entries in `README.md` following the established table structure and sorting conventions.
-3. 🔗 Include official documentation links, exact pricing / free trial limits for SaaS, or star badges for open-source libraries.
+3. 🔗 Include official documentation links, exact pricing / free trial limits for SaaS, or Stars_Badges for open-source libraries.
 4. 🚀 Submit a pull request with a concise summary of changes.
 
 ---
@@ -110,3 +110,12 @@ If you found this curated list helpful for building your billing system or compl
 <p align="center">
   <b>Built for finance engineers, fintech builders, and billing developers worldwide 🌍</b>
 </p>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Global-Tax-Payment-Compliance&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Global-Tax-Payment-Compliance_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Global-Tax-Payment-Compliance_growth.svg">
+  </picture>
+</a>
