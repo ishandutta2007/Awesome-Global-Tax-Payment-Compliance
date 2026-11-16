@@ -15,20 +15,25 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
+
+The global tax compliance and management software market is estimated at approximately **$23 billion to $29 billion in 2026** (projected to reach over $50 billion by the mid-2030s at an ~11% CAGR). The sector is **moderately fragmented** due to disparate jurisdiction-specific rules, local e-invoicing mandates, and varying tax structures across countries; however, enterprise indirect tax calculation and filing remain heavily concentrated among a handful of multi-billion-dollar scale leaders (e.g., Stripe, Avalara, Vertex).
+
 ## SaaS/Hosted Platforms
 
-| Product | Description | Pricing (Starting) | Free Tier / Trial Limits |
-|---------|-------------|-------------------|--------------------------|
-| **[Avalara AvaTax](https://www.avalara.com/)** | **The enterprise standard for indirect tax calculation.** Real-time rate determination, exemption certificate management, and return filing across thousands of jurisdictions. Positioned for businesses with complex multi-state and international nexus. | Quote-only (enterprise contract) | No free tier; demo via sales |
-| **[Vertex Cloud](https://www.vertexinc.com/)** | Enterprise tax technology for sales and use tax, VAT, and compliance. Deep ERP integrations (SAP, Oracle, Microsoft Dynamics). | Quote-only (enterprise contract) | No free tier; demo via sales |
-| **[Anrok](https://www.anrok.com/)** | **API-first sales tax and VAT compliance for SaaS and digital businesses.** Monitors nexus thresholds, calculates tax, and files returns. Positioned for software companies with global customers. | From **$50/month** [citation:5] | Free trial available |
-| **[TaxJar](https://www.taxjar.com/)** | Sales tax automation with API, automated filing, and nexus tracking. Widely used by e-commerce and SaaS businesses. | From **$39/month** [citation:5] | **30-day free trial** available |
-| **[Stripe Tax](https://stripe.com/tax)** | Tax calculation and filing integrated directly into Stripe's payment platform. Supports sales tax, VAT, and GST across 100+ jurisdictions. | Pay-per-transaction (usage-based) | No free tier; requires Stripe account |
+| Product | Company Size (Valuation / Revenue) | Description | Pricing (Starting) | Free Tier / Trial Limits |
+|---|---|---|---|---|
+| **[Stripe Tax](https://stripe.com/tax)** | **$159B valuation** (~$6.8B net revenue) | Tax calculation and filing integrated directly into Stripe's payment platform. Supports sales tax, VAT, and GST across 100+ jurisdictions. | **0.5% per transaction** (no-code / Stripe Checkout) or **$0.50 per transaction** (Tax API); full compliance suite from **$90/month** | **No free tier or trial** (live production requires active paid transaction fees; testmode available for developers) |
+| **[Avalara AvaTax](https://www.avalara.com/)** | **$8.4B valuation** at buyout (~$789M revenue) | **The enterprise standard for indirect tax calculation.** Real-time rate determination, exemption certificate management, and return filing across thousands of jurisdictions. Positioned for businesses with complex multi-state and international nexus. | Starts at **$69/month** (or **$699/year**) per state (Streamlined Sales Tax) / **$79/month** per state (non-SST); enterprise tiers require custom quote | **90-day free trial** for AvaTax evaluation/testing (capped at 5 orders/invoices per min, max 1,000 transactions/day; no permanent free tier) |
+| **[Vertex Cloud](https://www.vertexinc.com/)** | **$2.9B market cap** (~$819M LTM revenue) | Enterprise tax technology for sales and use tax, VAT, and compliance. Deep ERP integrations (SAP, Oracle, Microsoft Dynamics). | Entry packages start from **$5,000/year** (mid-market median ~$33,000/year; custom quote based on revenue/volume) | **No free tier or trial** (enterprise evaluation via sales demo only) |
+| **[TaxJar](https://www.taxjar.com/)** | **$850M–$900M valuation** (acquired by Stripe) | Sales tax automation with API, automated filing, and nexus tracking. Widely used by e-commerce and SaaS businesses. | Starts at **$39/month** (Starter Plan for up to 200 orders/month and 2 auto-filings/year) | **30-day free trial** (access to calculation and reporting features without auto-file) |
+| **[Anrok](https://www.anrok.com/)** | **$250M valuation** (Series B, 2024) | **API-first sales tax and VAT compliance for SaaS and digital businesses.** Monitors nexus thresholds, calculates tax, and files returns. Positioned for software companies with global customers. | Starts at **$100/month per active market** (state/country) | **No free tier or public trial** (pre-sale sandbox evaluation available on request) |
 
 ## Open-Source GitHub Projects
 
