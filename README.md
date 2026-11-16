@@ -1,6 +1,6 @@
 # Awesome-Global-Tax-Payment-Compliance
 
-# Top Global Tax & Payment Compliance Ecosystem
+## Top Global Tax & Payment Compliance Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on Tax Calculation Engines, Nexus Determination & Self-Hosted Compliance Primitives*  
